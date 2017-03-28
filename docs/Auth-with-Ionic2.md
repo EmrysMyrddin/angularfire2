@@ -235,7 +235,7 @@ export class HomePage {
 
 ```
 
-** Run your app by executing the following command **
+**Run your app by executing the following command**
 
 ```bash
 
@@ -243,7 +243,7 @@ C:\projects\Ionic_AngularFire2_Project> ionic serve
 
 ```
 
-####_This should fetch the data from firebase._
+_This should fetch the data from firebase._
 
 ## Configuring AngularFire2 Auth with Ionic2
 
